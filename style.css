@@ -9,7 +9,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        background-color: gray;
+        background-color: rgb(92, 88, 88);
         margin-bottom: 40px;
     }
     
@@ -34,7 +34,7 @@
     
     .nav-span1 {
         font-family: 'Otomanopee One', sans-serif;
-        color: seagreen;
+        color: rgb(241, 117, 0);
     }
     
     .links {
