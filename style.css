@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    margin-bottom: 40px;
+}
+
+li,
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 30px;
+    color: whitesmoke;
+}
+
+.h1-nav {
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+.nav-span {
+    color: rgb(7, 238, 255);
+}
+
+.nav-span1 {
+    font-family: 'Otomanopee One', sans-serif;
+    color: seagreen;
+}
+
+.links {
+    list-style: none;
+}
+
+.links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.sec1-span {
+    color: orange;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.sec-h1 {
+    font-size: 50px;
+}
+
+.section-1 {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+p {
+    font-size: large;
+    margin-bottom: 50px;
+}
+
+.sec-div {
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn1 {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    background-image: linear-gradient(rgb(231, 160, 28), rgb(240, 114, 11));
+    font-weight: 800;
+}
+
+.section-2 {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    margin-bottom: 40px;
+}
+
+.img {
+    padding: 20px;
+}
+
+#sec3-h1 {
+    text-align: center;
+}
+
+#sec3-p3 {
+    text-align: center;
+}
+
+.section-3 {
+    margin-bottom: 40px;
+}
